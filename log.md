@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, Monday
+### Day 0: Monday, January 3,2017
 
 **Today's Progress**: Fixed some formatting on my Free Code Camp Quote Generator.
 
