@@ -11,8 +11,8 @@
 
 ### Day 1: Tuesday, January 4, 2017
 
-**Today's Progress**: Updated buttons and shadowing Free Code Camp Quote Generator.
+**Today's Progress**: Updated buttons and shadowing Free Code Camp Quote Machine.
 
 **Thoughts** I finished some of the last touches included button effects and shadowing. Its baffling how long little things take and how much back and forth happens, but I'm getting closer to a look I like. I pushed my page to github pages but need to research the security error "This page is trying to load scripts from unauthenticated sources." Still have some learning to do around AJAX, but I'm happy to have a working version on codepen and github pages!
 
-**Link(s) to work**: [Quote Generator Github Pages] https://stephaniejue.github.io/quote_generator_ajax/ [Quote Generator Codepen] http://codepen.io/stephjuechin/pen/WoGRbz
+**Link(s) to work**: [Quote Machine - Github Pages](https://stephaniejue.github.io/quote_generator_ajax/) [Quote Machine - Codepen](http://codepen.io/stephjuechin/pen/WoGRbz)
