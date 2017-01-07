@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Tuesday, January 3, 2017
+### Day 1: Tuesday, January 3, 2017
 
 **Today's Progress**: Fixed some formatting on my Free Code Camp Quote Generator.
 
@@ -9,7 +9,7 @@
 **Link(s) to work**: [Quote Generator](https://github.com/stephaniejue/quote_generator_ajax)
 
 
-### Day 1: Wednesday, January 4, 2017
+### Day 2: Wednesday, January 4, 2017
 
 **Today's Progress**: Updated buttons and shadowing Free Code Camp Quote Machine.
 
@@ -17,10 +17,20 @@
 
 **Link(s) to work**: [Quote Machine - Github Pages](https://stephaniejue.github.io/quote_generator_ajax/), [Quote Machine - Codepen](http://codepen.io/stephjuechin/pen/WoGRbz)
 
-### Day 2: Thursday, January 5, 2017
+### Day 3: Thursday, January 5, 2017
 
 **Today's Progress**: Worked on address book app inheritance.
 
 **Thoughts** Today was frustrating trying to figure out why my application.html.erb file wasn't being rendered for my other views. Because application.html.erb has my page headers, bootstrap also wasn't loading. After spending some time checking my file paths, I chose to do a workaround I found on stackoverflow. I created a partial html_header.html.erb and moved all of my header info to there, then added <%= render 'layouts/html_header' %> to each page. Seems to work for now. I'll get started with bootstrap tomorrow!
 
 **Link(s) to work**: [Address Book App](https://github.com/stephaniejue/address_book_app_rails)
+
+### Day 4: Thursday, January 5, 2017
+
+**Today's Progress**: Created a wildlife app at LEARN academy and continued working on it after school.
+
+**Thoughts** Created a rails app using scaffolding today and learend about AJAX and JSON. The app has a relational database and functionality to add/remove sightings to animals using AJAX. This took most of the day and the bones of it I worked on with my pair programmer. After class I continuted cleaning up some of the code and adding in some formatting, including bootstrap. Unlike my Address Book App (above), the application.html.erb file IS working and I'm having a much more succesful time messing with the look of the application. I'd like to add more functionality tomorrow.
+
+**Link(s) to work**: [Wildlife Tracker App](https://github.com/stephaniejue/StephRya/tree/master/wildlife_tracker_with_validations)
+
+
