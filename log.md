@@ -40,3 +40,12 @@
 **Thoughts** Today I started on a new app as part of FCC's projects. I'm pretty happy with the basic functionality I have so far. I was able to pull geolocator info usina an API and include that in an API call to OpenWeatherMap for weather information. I ran into a few bumps, including forgetting to add the jQuery CDN (oops!) but I'm happy that I was able to figure out most of the functionality that I'll need for the app. Next up I'll fine tune the display, including what type of info is provided to the user.
 
 **Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
+
+
+### Day 6: Sunday, January 8, 2017
+
+**Today's Progress**: Continued working on my weather app
+
+**Thoughts** After creating the API request yesterday I worked on formatting the data today. I created 2 functions to convert kelvin (the default temp returned) into farenheit and celsius. I added sunrise and sunset times and converted those times from unix to javascript local time format. I also added a weather icons library and table to ogranize all weather elements. 
+
+**Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
