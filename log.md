@@ -25,7 +25,7 @@
 
 **Link(s) to work**: [Address Book App](https://github.com/stephaniejue/address_book_app_rails)
 
-### Day 4: Thursday, January 5, 2017
+### Day 4: Friday, January 6, 2017
 
 **Today's Progress**: Created a wildlife app at LEARN academy and continued working on it after school.
 
@@ -33,4 +33,10 @@
 
 **Link(s) to work**: [Wildlife Tracker App](https://github.com/stephaniejue/StephRya/tree/master/wildlife_tracker_with_validations)
 
+### Day 5: Saturday, January 7, 2017
 
+**Today's Progress**: Created a weather app with basic API call and AJAX/jQuery functionality
+
+**Thoughts** Today I started on a new app as part of FCC's projects. I'm pretty happy with the basic functionality I have so far. I was able to pull geolocator info usina an API and include that in an API call to OpenWeatherMap for weather information. I ran into a few bumps, including forgetting to add the jQuery CDN (oops!) but I'm happy that I was able to figure out most of the functionality that I'll need for the app. Next up I'll fine tune the display, including what type of info is provided to the user.
+
+**Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app) [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
