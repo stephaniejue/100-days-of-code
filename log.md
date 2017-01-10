@@ -48,4 +48,13 @@
 
 **Thoughts** After creating the API request yesterday I worked on formatting the data today. I created 2 functions to convert kelvin (the default temp returned) into farenheit and celsius. I added sunrise and sunset times and converted those times from unix to javascript local time format. I also added a weather icons library and table to ogranize all weather elements. 
 
+**Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm
+
+### Day 7: Monday, January 9, 2017
+
+**Today's Progress**: Continued working on my weather app
+
+**Thoughts** Had to create a workaround because geolocator api was returning a 403 error. Used $.getJSON("http://ipinfo.io"..) instead, which is working pretty well (and in codepen!). Created function to change time icon depending on local time of user. Need to do some cleanup with my js file and figure out the 403 errors. Might look in to google's geo api instead. Still happy about my progress, not feeling as lost as I thought I would with triaging AJAX/API errors.
+
 **Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
+
