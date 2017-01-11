@@ -58,3 +58,10 @@
 
 **Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
 
+### Day 8: Tuesday, January 10, 2017
+
+**Today's Progress**: Continued working on my weather app
+
+**Thoughts** Added jquery on click functionality to swtich from F to C temp. Had to work around using jquery after an AJAX call. Also fixed time icons to account for double digit hours.
+
+**Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
