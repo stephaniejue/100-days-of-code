@@ -65,3 +65,12 @@
 **Thoughts** Added jquery on click functionality to swtich from F to C temp. Had to work around using jquery after an AJAX call. Also fixed time icons to account for double digit hours.
 
 **Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
+
+### Day 9: Wednesday, January 11, 2017
+
+**Today's Progress**: Added toggle button and button.js to my weather app
+
+**Thoughts** Added a toggle button to switch temps for a more visual effect. For some reason code isnt working the same on codepen or github pages as it is locally, something to triage more tomorrow.
+
+**Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
+
