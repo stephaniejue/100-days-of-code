@@ -81,3 +81,9 @@
 **Thoughts** Put the finishing touches on my weather app today. I added background images that change for night vs day, I'll have to check tomorrow morning if its working correctly. In the future, I may play around with some additional background images based on the weather condition, but I need to move on for now. I set a goal to finish this by end of week and told myself I would get as close to "perfect" as possible. Yesterday I was feeling a frustrated for getting carried away with the design aspects of this app, but I'm happy how it turned out. Trying not to get caught up in the little things going forward. Up tomorrow (and this weekend): finishing my portfolio.
 
 **Link(s) to work**: [Weather App Github](https://github.com/stephaniejue/weather_app), [Weather App Codepen](http://codepen.io/stephjuechin/pen/LxVMwm)
+
+### Day 11: Friday, January 13, 2017
+
+**Today's Progress**: Starting/Restarting my portfolio
+
+**Thoughts** I'm setting a goal to have the majority of the layout/template figured out this weekend. I just started playing around with some templates and am trying to figure out what pieces I'd like to combine. Long way to go, but need to get this done.
