@@ -87,3 +87,11 @@
 **Today's Progress**: Starting/Restarting my portfolio
 
 **Thoughts** I'm setting a goal to have the majority of the layout/template figured out this weekend. I just started playing around with some templates and am trying to figure out what pieces I'd like to combine. Long way to go, but need to get this done.
+
+### Day 12: Saturday, January 14, 2017
+
+**Today's Progress**: Lots of work done on my portfolio
+
+**Thoughts** I finally settled on a good template that feels like me. I got some of the basic content updated and a few changes to the formatting. I want to add in some animation with JavaScript/Jquery tomorrow. I cleared out in-progress content enough so that I can start sending this out. Also, need to add email functionality. Really happy with my progress! At least I have something to show for interviews now.
+
+**Link(s) to work**: [Portfolio Github](https://github.com/stephaniejue/stephaniejue), [Portfiolio GitHub Pages](https://stephaniejue.github.io/stephaniejue/)
