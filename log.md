@@ -95,3 +95,13 @@
 **Thoughts** I finally settled on a good template that feels like me. I got some of the basic content updated and a few changes to the formatting. I want to add in some animation with JavaScript/Jquery tomorrow. I cleared out in-progress content enough so that I can start sending this out. Also, need to add email functionality. Really happy with my progress! At least I have something to show for interviews now.
 
 **Link(s) to work**: [Portfolio Github](https://github.com/stephaniejue/stephaniejue), [Portfiolio GitHub Pages](https://stephaniejue.github.io/stephaniejue/)
+
+
+### Day 13: Sunday, January 15, 2017
+
+**Today's Progress**: Almost done with my portfolio!!
+
+**Thoughts** I still have a few things I want to add to and finish, but I have a working portfolio! and I got it up and running with my domain name. So excited to share this after two full days of work this weekend. Not going to spend too much time reflect, already committed to git a lot today, that counts.
+
+**Link(s) to work**: [Portfolio Github](https://github.com/stephaniejue/stephaniejue), [LIVE Portfolio](http://www.stephaniejue.com/)
+
