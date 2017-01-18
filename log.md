@@ -109,6 +109,10 @@
 
 **Today's Progress**: Not much to report, but worked on my portfolio a little
 
-**Thoughts** Trying to figure out the contact form for my portfolio, then realized I need to figure out PHP for Heroku for the tutorial I'm doing. So spent some time installing and configuring... going to work on it more tomorrow
+**Thoughts** Trying to figure out the contact form for my portfolio, then realized I need to figure out PHP for Heroku for the tutorial I'm doing. So spent some time installing and configuring... going to work on it more tomorrow.
 
+### Day 15: Tuesday, January 17, 2017
 
+**Today's Progress**: Still fighting with my contact form
+
+**Thoughts** Got my static site up on heroku with contact_me.php, but it's still not working. It's giving me a success alert, which is the frustrating part. I downloaded MAMP to try and figure this out on a local server, but still no luck. Digging continues tomorrow.
