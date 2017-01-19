@@ -116,3 +116,9 @@
 **Today's Progress**: Still fighting with my contact form
 
 **Thoughts** Got my static site up on heroku with contact_me.php, but it's still not working. It's giving me a success alert, which is the frustrating part. I downloaded MAMP to try and figure this out on a local server, but still no luck. Digging continues tomorrow.
+
+### Day 16: Tuesday, January 18, 2017
+
+**Today's Progress**: Group projects! Working on VolunteerUP!
+
+**Thoughts** Today we started working on our group projects at LEARN. After class, I added some styling/formatting changes to feel more like a real application. Will be putting in lots of work on this in the next two weeks. Excited to see what we can make!
