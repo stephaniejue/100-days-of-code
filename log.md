@@ -122,3 +122,5 @@
 **Today's Progress**: Group projects! Working on VolunteerUP!
 
 **Thoughts** Today we started working on our group projects at LEARN. After class, I added some styling/formatting changes to feel more like a real application. Will be putting in lots of work on this in the next two weeks. Excited to see what we can make!
+
+**Link(s) to work**: [VolunteerUP Github](https://github.com/stephaniejue/VolunteerUP)
