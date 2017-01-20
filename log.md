@@ -124,3 +124,11 @@
 **Thoughts** Today we started working on our group projects at LEARN. After class, I added some styling/formatting changes to feel more like a real application. Will be putting in lots of work on this in the next two weeks. Excited to see what we can make!
 
 **Link(s) to work**: [VolunteerUP Github](https://github.com/stephaniejue/VolunteerUP)
+
+### Day 17: Tuesday, January 19, 2017
+
+**Today's Progress**: Group projects continued
+
+**Thoughts** We're making tons of progress which is great! We already have a lot of the basic functionality in place. Spent some time fixing tests and merge conflicts. Also got to work on some fuzzy searches. The searches aren't perfect because of postgres's pg_trgm similary threshold. Will try to figure that out tomorrow.
+
+**Link(s) to work**: [VolunteerUP Github](https://github.com/stephaniejue/VolunteerUP)
