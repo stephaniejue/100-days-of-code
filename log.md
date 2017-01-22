@@ -117,7 +117,7 @@
 
 **Thoughts** Got my static site up on heroku with contact_me.php, but it's still not working. It's giving me a success alert, which is the frustrating part. I downloaded MAMP to try and figure this out on a local server, but still no luck. Digging continues tomorrow.
 
-### Day 16: Tuesday, January 18, 2017
+### Day 16: Wednesday, January 18, 2017
 
 **Today's Progress**: Group projects! Working on VolunteerUP!
 
@@ -125,10 +125,26 @@
 
 **Link(s) to work**: [VolunteerUP Github](https://github.com/stephaniejue/VolunteerUP)
 
-### Day 17: Tuesday, January 19, 2017
+### Day 17: Thursday, January 19, 2017
 
 **Today's Progress**: Group projects continued
 
 **Thoughts** We're making tons of progress which is great! We already have a lot of the basic functionality in place. Spent some time fixing tests and merge conflicts. Also got to work on some fuzzy searches. The searches aren't perfect because of postgres's pg_trgm similary threshold. Will try to figure that out tomorrow.
 
 **Link(s) to work**: [VolunteerUP Github](https://github.com/stephaniejue/VolunteerUP)
+
+### Day 18: Friday, January 20, 2017
+
+**Today's Progress**: Brushing up on JavaScript for Xander Challenge
+
+**Thoughts** Along with working on VolunteerUP, I did some brushing up on Javascript for a code challenge I have. Reading up on closures, anonymous functions and call backs. I didn't get very far, so I'll have to do more on Sunday.
+
+**Link(s) to work**: [VolunteerUP Github](https://github.com/stephaniejue/VolunteerUP)
+
+### Day 19: Saturday, January 21, 2017
+
+**Today's Progress**: Fixing Apartments App
+
+**Thoughts** I tried to fix my apartments app today, soemthing what messing up with login with twitter/facebook and the google apis.
+
+**Link(s) to work**: [Apartments App Github](https://github.com/stephaniejue/apartments_app)
