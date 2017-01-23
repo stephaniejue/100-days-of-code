@@ -148,3 +148,11 @@
 **Thoughts** I tried to fix my apartments app today, soemthing what messing up with login with twitter/facebook and the google apis.
 
 **Link(s) to work**: [Apartments App Github](https://github.com/stephaniejue/apartments_app)
+
+### Day 20: Sunday, January 22, 2017
+
+**Today's Progress**: Work on Apartments App
+
+**Thoughts** I had a lot of issues after opening my Apts app yesterday. I wanted to clean it up to send over to a potential internship. I ended up doing a lot of little bug fixes to get the maps and authentication apis working, Foundation, and S3 working on my dev environemnt. Its still not in as good of shape as I would hope, but it's live for now. I need to work on the search feature and admin pages, and figure out more functionality to add to it.
+
+**Link(s) to work**: [Apartments App Github](https://github.com/stephaniejue/apartments_app), [Apartments App Heroku](https://nameless-headland-26041.herokuapp.com/apartments)
