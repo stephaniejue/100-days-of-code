@@ -165,3 +165,12 @@
 **Thoughts** This week we got a ton done on the apartments app. I've been so busy I forgot to log. Some of the major things I implemented are the waitlist functionality, user roles, media share buttons, and cause tags. Along with that I created tests for each and helped in resolving testing issues. The app is looking great! Finishing up next week before demo night.
 
 **Link(s) to work**: [VolunteerUP Github](https://github.com/stephaniejue/VolunteerUP)
+
+### Day 26: Saturday, January 28, 2017
+
+**Today's Progress**: RuboCop and Dotenv on Apartments App
+
+**Thoughts** Today I played around with two new gems: RuboCop and dotenv. I implemented rubo cop and started working through the offenses. Glad I got it working and it seems to be a pretty good system once you get up and running. I also FINALLY installed dotenv which has solved all my issues with S3 in dev. Glad I got experience. I rolled them out on Apartments app first, but will probably work on putting them in our VolunteerUP.
+
+**Link(s) to work**: [Apartments App Github](https://github.com/stephaniejue/apartments_app)
+
