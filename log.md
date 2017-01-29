@@ -156,3 +156,12 @@
 **Thoughts** I had a lot of issues after opening my Apts app yesterday. I wanted to clean it up to send over to a potential internship. I ended up doing a lot of little bug fixes to get the maps and authentication apis working, Foundation, and S3 working on my dev environemnt. Its still not in as good of shape as I would hope, but it's live for now. I need to work on the search feature and admin pages, and figure out more functionality to add to it.
 
 **Link(s) to work**: [Apartments App Github](https://github.com/stephaniejue/apartments_app), [Apartments App Heroku](https://nameless-headland-26041.herokuapp.com/apartments)
+
+
+### Day 21-25: Monday, January 23, 2017 - Friday, January 27, 2017
+
+**Week's Progress**: Apartments App
+
+**Thoughts** This week we got a ton done on the apartments app. I've been so busy I forgot to log. Some of the major things I implemented are the waitlist functionality, user roles, media share buttons, and cause tags. Along with that I created tests for each and helped in resolving testing issues. The app is looking great! Finishing up next week before demo night.
+
+**Link(s) to work**: [VolunteerUP Github](https://github.com/stephaniejue/VolunteerUP)
